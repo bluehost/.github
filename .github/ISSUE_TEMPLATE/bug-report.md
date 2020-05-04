@@ -23,12 +23,12 @@ A clear and concise description of what you expected to happen.
 If applicable, add screenshots to help explain the problem.
 
 **Bluehost Plugin Version:**
-Version:
+* Version:
 
 **Browser (with version) & Operating System (with version)**
   * Browser:
-  * Operating System
-  * Device
+  * Operating System:
+  * Device:
 
 **Additional context**
 Add any other context about the problem here.
