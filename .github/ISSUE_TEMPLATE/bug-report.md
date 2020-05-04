@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **Summarize the issue (briefly)**
-A clear and concise description of what the bug is.
+<!-- A clear and concise description of what the bug is. -->
 
 **Steps to reproduce**
   1. Go to...
@@ -17,10 +17,10 @@ A clear and concise description of what the bug is.
   4. See/experience error
 
 **Expected behavior**
-A clear and concise description of what you expected to happen.
+<!-- A clear and concise description of what you expected to happen. -->
 
 **Screenshots**
-If applicable, add screenshots to help explain the problem.
+<!-- If applicable, add screenshots to help explain the problem. -->
 
 **Bluehost Plugin Version:**
 * Version:
@@ -31,4 +31,4 @@ If applicable, add screenshots to help explain the problem.
   * Device:
 
 **Additional context**
-Add any other context about the problem here.
+<!-- Add any other context about the problem here. -->
